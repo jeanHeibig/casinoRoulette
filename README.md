@@ -47,3 +47,14 @@ https://www.la-roulette.info/francaise.html
 https://www.la-roulette.info/americaine.html
 
 https://www.casinosbarriere.com/fr/nos-jeux/jeux-de-table/roulette-francaise.html
+
+## Ruine
+
+http://math.webgirand.eu/pdf/dvp_agreg/ruine.pdf
+
+
+## Généralisation
+
+http://www.numdam.org/article/MSH_1964__9__15_0.pdf
+
+https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_Rouch%C3%A9
