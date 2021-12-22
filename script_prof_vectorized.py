@@ -1,11 +1,10 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-
-N = 1000
-delta_u = 1e-2
+N = 1200
+delta_u = 2e-2
 c = 1
-delta_t = c * delta_u
+delta_t = delta_u / c
 phi = np.ones(N)
 _lambda = 1
 X = delta_u * np.arange(N)
