@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="2100.0" height="2100.0" viewBox="-1.05 -1.05 2.1 2.1">
+<defs>
+<path d="M-0.06996488769229466,0.8220279280475843 A0.825,0.825,0,0,0,0.06996488769229436,0.8220279280475843" fill-opacity="0" id="d0" />
+<path d="M0.06996488769229581,0.8220279280475843 A0.825,0.825,0,0,0,0.20788190064272785,0.7983796812201366" fill-opacity="0" id="d1" />
+<path d="M0.20788190064272927,0.7983796812201363 A0.825,0.825,0,0,0,0.33981852980129384,0.751763504570212" fill-opacity="0" id="d2" />
+<path d="M0.33981852980129384,0.751763504570212 A0.825,0.825,0,0,0,0.4619791985635151,0.6835204606261704" fill-opacity="0" id="d3" />
+<path d="M0.4619791985635163,0.6835204606261696 A0.825,0.825,0,0,0,0.5708495669064749,0.5956137775124833" fill-opacity="0" id="d4" />
+<path d="M0.5708495669064759,0.5956137775124822 A0.825,0.825,0,0,0,0.6632976325527256,0.49057237045103697" fill-opacity="0" id="d5" />
+<path d="M0.663297632552726,0.4905723704510363 A0.825,0.825,0,0,0,0.7366638329733938,0.37141808947458077" fill-opacity="0" id="d6" />
+<path d="M0.7366638329733941,0.37141808947458005 A0.825,0.825,0,0,0,0.7888375561598817,0.24157878630315477" fill-opacity="0" id="d7" />
+<path d="M0.788837556159882,0.24157878630315405 A0.825,0.825,0,0,0,0.8183178590885734,0.1047897012911754" fill-opacity="0" id="d8" />
+<path d="M0.8183178590885736,0.10478970129117395 A0.825,0.825,0,0,0,0.8242566471188623,-0.03501399263682223" fill-opacity="0" id="d9" />
+<path d="M0.8242566471188622,-0.03501399263682296 A0.825,0.825,0,0,0,0.806483072131841,-0.1738103977464744" fill-opacity="0" id="d10" />
+<path d="M0.8064830721318408,-0.17381039774647583 A0.825,0.825,0,0,0,0.7655084475196202,-0.30760659416875435" fill-opacity="0" id="d11" />
+<path d="M0.7655084475196197,-0.30760659416875574 A0.825,0.825,0,0,0,0.7025115386299813,-0.43255350893471683" fill-opacity="0" id="d12" />
+<path d="M0.702511538629981,-0.43255350893471745 A0.825,0.825,0,0,0,0.6193046518334973,-0.5450566467968174" fill-opacity="0" id="d13" />
+<path d="M0.6193046518334968,-0.545056646796818 A0.825,0.825,0,0,0,0.5182814977689044,-0.641879497312713" fill-opacity="0" id="d14" />
+<path d="M0.5182814977689032,-0.641879497312714 A0.825,0.825,0,0,0,0.4023483286462476,-0.7202366433579807" fill-opacity="0" id="d15" />
+<path d="M0.402348328646247,-0.720236643357981 A0.825,0.825,0,0,0,0.27484033066219626,-0.7778738925053948" fill-opacity="0" id="d16" />
+<path d="M0.27484033066219554,-0.7778738925053951 A0.825,0.825,0,0,0,0.1394256767655246,-0.8131331260368596" fill-opacity="0" id="d17" />
+<path d="M0.13942567676552314,-0.8131331260368598 A0.825,0.825,0,0,0,-1.9456581864336684e-15,-0.825" fill-opacity="0" id="d18" />
+<path d="M-1.9456581864336684e-15,-0.825 A0.825,0.825,0,0,0,-0.139425676765527,-0.8131331260368592" fill-opacity="0" id="d19" />
+<path d="M-0.13942567676552842,-0.8131331260368589 A0.825,0.825,0,0,0,-0.2748403306621992,-0.7778738925053937" fill-opacity="0" id="d20" />
+<path d="M-0.2748403306621992,-0.7778738925053937 A0.825,0.825,0,0,0,-0.40234832864625036,-0.7202366433579792" fill-opacity="0" id="d21" />
+<path d="M-0.40234832864625036,-0.7202366433579792 A0.825,0.825,0,0,0,-0.5182814977689068,-0.641879497312711" fill-opacity="0" id="d22" />
+<path d="M-0.5182814977689068,-0.641879497312711 A0.825,0.825,0,0,0,-0.6193046518334994,-0.5450566467968151" fill-opacity="0" id="d23" />
+<path d="M-0.6193046518334994,-0.5450566467968151 A0.825,0.825,0,0,0,-0.7025115386299826,-0.4325535089347147" fill-opacity="0" id="d24" />
+<path d="M-0.7025115386299834,-0.43255350893471356 A0.825,0.825,0,0,0,-0.7655084475196214,-0.3076065941687514" fill-opacity="0" id="d25" />
+<path d="M-0.7655084475196209,-0.3076065941687528 A0.825,0.825,0,0,0,-0.8064830721318416,-0.17381039774647203" fill-opacity="0" id="d26" />
+<path d="M-0.8064830721318416,-0.17381039774647203 A0.825,0.825,0,0,0,-0.8242566471188623,-0.03501399263681834" fill-opacity="0" id="d27" />
+<path d="M-0.8242566471188623,-0.03501399263681834 A0.825,0.825,0,0,0,-0.8183178590885728,0.10478970129117925" fill-opacity="0" id="d28" />
+<path d="M-0.818317859088573,0.1047897012911778 A0.825,0.825,0,0,0,-0.7888375561598806,0.2415787863031585" fill-opacity="0" id="d29" />
+<path d="M-0.7888375561598815,0.24157878630315568 A0.825,0.825,0,0,0,-0.7366638329733924,0.37141808947458355" fill-opacity="0" id="d30" />
+<path d="M-0.7366638329733924,0.37141808947458355 A0.825,0.825,0,0,0,-0.6632976325527228,0.49057237045104063" fill-opacity="0" id="d31" />
+<path d="M-0.6632976325527228,0.49057237045104063 A0.825,0.825,0,0,0,-0.5708495669064716,0.5956137775124865" fill-opacity="0" id="d32" />
+<path d="M-0.5708495669064737,0.5956137775124845 A0.825,0.825,0,0,0,-0.46197919856351255,0.6835204606261721" fill-opacity="0" id="d33" />
+<path d="M-0.4619791985635137,0.6835204606261714 A0.825,0.825,0,0,0,-0.33981852980129096,0.7517635045702132" fill-opacity="0" id="d34" />
+<path d="M-0.33981852980129096,0.7517635045702132 A0.825,0.825,0,0,0,-0.20788190064272483,0.7983796812201375" fill-opacity="0" id="d35" />
+<path d="M-0.20788190064272483,0.7983796812201375 A0.825,0.825,0,0,0,-0.06996488769228974,0.8220279280475848" fill-opacity="0" id="d36" />
+</defs>
+<path d="M0.0706628291180285,-0.8219682260166973 A0.825,0.825,0,0,0,-0.07066282911802821,-0.8219682260166973" stroke="#007711" stroke-width="0.35" fill-opacity="0" />
+<path d="M-0.06926689582640679,-0.8220870374495475 A0.825,0.825,0,0,0,-0.20855971312422675,-0.7982028852751286" stroke="#222222" stroke-width="0.35" fill-opacity="0" />
+<path d="M-0.20720393829183595,-0.7985559015850756 A0.825,0.825,0,0,0,-0.34045671390755516,-0.7514747008085296" stroke="#BB2222" stroke-width="0.35" fill-opacity="0" />
+<path d="M-0.3391801007078698,-0.7520517663590713 A0.825,0.825,0,0,0,-0.4625593948997422,-0.6831279574062127" stroke="#222222" stroke-width="0.35" fill-opacity="0" />
+<path d="M-0.4613986691701931,-0.6839124710721209 A0.825,0.825,0,0,0,-0.5713550842804334,-0.5951288664372606" stroke="#BB2222" stroke-width="0.35" fill-opacity="0" />
+<path d="M-0.5703436379869323,-0.5960982591887272 A0.825,0.825,0,0,0,-0.6637139281499603,-0.49000900152930776" stroke="#222222" stroke-width="0.35" fill-opacity="0" />
+<path d="M-0.6628808587608352,-0.4911353857018424 A0.825,0.825,0,0,0,-0.7369789307275201,-0.3707924698044999" stroke="#BB2222" stroke-width="0.35" fill-opacity="0" />
+<path d="M-0.7363482041323306,-0.3720434413762611 A0.825,0.825,0,0,0,-0.7890423912822104,-0.24090891382356738" stroke="#222222" stroke-width="0.35" fill-opacity="0" />
+<path d="M-0.7886321523367393,-0.24224848462007334 A0.825,0.825,0,0,0,-0.8184065388455772,-0.10409484701368571" stroke="#BB2222" stroke-width="0.35" fill-opacity="0" />
+<path d="M-0.8182285893773653,-0.10548448002207211 A0.825,0.825,0,0,0,-0.8242266203553911,0.035713839019768816" stroke="#222222" stroke-width="0.35" fill-opacity="0" />
+<path d="M-0.8242860796466471,0.03431412101105517 A0.825,0.825,0,0,0,-0.8063352026632105,0.17449510292864726" stroke="#BB2222" stroke-width="0.35" fill-opacity="0" />
+<path d="M-0.8066303601783822,0.17312556725825726 A0.825,0.825,0,0,0,-0.7652469892812173,0.308256460428703" stroke="#222222" stroke-width="0.35" fill-opacity="0" />
+<path d="M-0.7657693538759852,0.30695650614436576 A0.825,0.825,0,0,0,-0.7021440132992894,0.43314984080334973" stroke="#BB2222" stroke-width="0.35" fill-opacity="0" />
+<path d="M-0.7028785574953292,0.43195686522300486 A0.825,0.825,0,0,0,-0.6188416324451282,0.5455822888920138" stroke="#222222" stroke-width="0.35" fill-opacity="0" />
+<path d="M-0.6197672247433008,0.5445306117510628 A0.825,0.825,0,0,0,-0.5177363045476447,0.6423193278684274" stroke="#BB2222" stroke-width="0.35" fill-opacity="0" />
+<path d="M-0.5188263173427531,0.6414392040034322 A0.825,0.825,0,0,0,-0.4017366458084421,0.7205780092499231" stroke="#222222" stroke-width="0.35" fill-opacity="0" />
+<path d="M-0.40295972141695247,0.7198947582220417 A0.825,0.825,0,0,0,-0.274179755209401,0.7781069732583772" stroke="#BB2222" stroke-width="0.35" fill-opacity="0" />
+<path d="M-0.27550070797290405,0.77764025095569 A0.825,0.825,0,0,0,-0.13873521225080848,0.813251216341988" stroke="#222222" stroke-width="0.35" fill-opacity="0" />
+<path d="M-0.14011604076335224,0.8130144495153838 A0.825,0.825,0,0,0,0.0007004901696746698,0.8249997026142022" stroke="#BB2222" stroke-width="0.35" fill-opacity="0" />
+<path d="M-0.0007004901696713092,0.8249997026142022 A0.825,0.825,0,0,0,0.14011604076335554,0.8130144495153833" stroke="#222222" stroke-width="0.35" fill-opacity="0" />
+<path d="M0.1387352122508118,0.8132512163419875 A0.825,0.825,0,0,0,0.27550070797290793,0.7776402509556887" stroke="#BB2222" stroke-width="0.35" fill-opacity="0" />
+<path d="M0.2741797552094042,0.778106973258376 A0.825,0.825,0,0,0,0.4029597214169554,0.7198947582220401" stroke="#222222" stroke-width="0.35" fill-opacity="0" />
+<path d="M0.40173664580844565,0.7205780092499211 A0.825,0.825,0,0,0,0.5188263173427557,0.6414392040034301" stroke="#BB2222" stroke-width="0.35" fill-opacity="0" />
+<path d="M0.517736304547648,0.6423193278684248 A0.825,0.825,0,0,0,0.619767224743303,0.5445306117510603" stroke="#222222" stroke-width="0.35" fill-opacity="0" />
+<path d="M0.6188416324451307,0.5455822888920109 A0.825,0.825,0,0,0,0.7028785574953308,0.43195686522300225" stroke="#BB2222" stroke-width="0.35" fill-opacity="0" />
+<path d="M0.7021440132992911,0.4331498408033469 A0.825,0.825,0,0,0,0.7657693538759868,0.30695650614436193" stroke="#222222" stroke-width="0.35" fill-opacity="0" />
+<path d="M0.7652469892812187,0.30825646042869925 A0.825,0.825,0,0,0,0.806630360178383,0.1731255672582536" stroke="#BB2222" stroke-width="0.35" fill-opacity="0" />
+<path d="M0.8063352026632111,0.17449510292864395 A0.825,0.825,0,0,0,0.8242860796466472,0.03431412101105144" stroke="#222222" stroke-width="0.35" fill-opacity="0" />
+<path d="M0.8242266203553913,0.03571383901976436 A0.825,0.825,0,0,0,0.8182285893773648,-0.10548448002207582" stroke="#BB2222" stroke-width="0.35" fill-opacity="0" />
+<path d="M0.8184065388455768,-0.10409484701368941 A0.825,0.825,0,0,0,0.7886321523367381,-0.24224848462007728" stroke="#222222" stroke-width="0.35" fill-opacity="0" />
+<path d="M0.7890423912822093,-0.24090891382357096 A0.825,0.825,0,0,0,0.7363482041323292,-0.3720434413762641" stroke="#BB2222" stroke-width="0.35" fill-opacity="0" />
+<path d="M0.7369789307275186,-0.370792469804503 A0.825,0.825,0,0,0,0.6628808587608328,-0.4911353857018457" stroke="#222222" stroke-width="0.35" fill-opacity="0" />
+<path d="M0.663713928149958,-0.4900090015293111 A0.825,0.825,0,0,0,0.5703436379869297,-0.5960982591887297" stroke="#BB2222" stroke-width="0.35" fill-opacity="0" />
+<path d="M0.571355084280431,-0.595128866437263 A0.825,0.825,0,0,0,0.46139866917018973,-0.6839124710721233" stroke="#222222" stroke-width="0.35" fill-opacity="0" />
+<path d="M0.46255939489973813,-0.6831279574062153 A0.825,0.825,0,0,0,0.3391801007078664,-0.7520517663590729" stroke="#BB2222" stroke-width="0.35" fill-opacity="0" />
+<path d="M0.3404567139075514,-0.7514747008085313 A0.825,0.825,0,0,0,0.20720393829183129,-0.7985559015850768" stroke="#222222" stroke-width="0.35" fill-opacity="0" />
+<path d="M0.20855971312422245,-0.7982028852751297 A0.825,0.825,0,0,0,0.06926689582640234,-0.8220870374495478" stroke="#BB2222" stroke-width="0.35" fill-opacity="0" />
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d0" startOffset="50%">
+<tspan dy="-20.1em">0</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d1" startOffset="50%">
+<tspan dy="-20.1em">62</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d2" startOffset="50%">
+<tspan dy="-20.1em">3</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d3" startOffset="50%">
+<tspan dy="-20.1em">53</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d4" startOffset="50%">
+<tspan dy="-20.1em">21</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d5" startOffset="50%">
+<tspan dy="-20.1em">82</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d6" startOffset="50%">
+<tspan dy="-20.1em">7</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d7" startOffset="50%">
+<tspan dy="-20.1em">92</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d8" startOffset="50%">
+<tspan dy="-20.1em">81</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d9" startOffset="50%">
+<tspan dy="-20.1em">22</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d10" startOffset="50%">
+<tspan dy="-20.1em">9</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d11" startOffset="50%">
+<tspan dy="-20.1em">13</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d12" startOffset="50%">
+<tspan dy="-20.1em">41</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d13" startOffset="50%">
+<tspan dy="-20.1em">02</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d14" startOffset="50%">
+<tspan dy="-20.1em">1</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d15" startOffset="50%">
+<tspan dy="-20.1em">33</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d16" startOffset="50%">
+<tspan dy="-20.1em">61</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d17" startOffset="50%">
+<tspan dy="-20.1em">42</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d18" startOffset="50%">
+<tspan dy="-20.1em">5</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d19" startOffset="50%">
+<tspan dy="-20.1em">01</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d20" startOffset="50%">
+<tspan dy="-20.1em">32</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d21" startOffset="50%">
+<tspan dy="-20.1em">8</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d22" startOffset="50%">
+<tspan dy="-20.1em">03</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d23" startOffset="50%">
+<tspan dy="-20.1em">11</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d24" startOffset="50%">
+<tspan dy="-20.1em">63</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d25" startOffset="50%">
+<tspan dy="-20.1em">31</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d26" startOffset="50%">
+<tspan dy="-20.1em">72</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d27" startOffset="50%">
+<tspan dy="-20.1em">6</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d28" startOffset="50%">
+<tspan dy="-20.1em">43</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d29" startOffset="50%">
+<tspan dy="-20.1em">71</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d30" startOffset="50%">
+<tspan dy="-20.1em">52</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d31" startOffset="50%">
+<tspan dy="-20.1em">2</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d32" startOffset="50%">
+<tspan dy="-20.1em">12</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d33" startOffset="50%">
+<tspan dy="-20.1em">4</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d34" startOffset="50%">
+<tspan dy="-20.1em">91</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d35" startOffset="50%">
+<tspan dy="-20.1em">51</tspan>
+</textPath></text>
+<text font-size="0.085" fill="ivory" text-anchor="middle"><textPath xlink:href="#d36" startOffset="50%">
+<tspan dy="-20.1em">23</tspan>
+</textPath></text>
+<circle cx="0" cy="0" r="0.9991666666666666" stroke="ivory" stroke-width="0.0025" fill-opacity="0" />
+<circle cx="0" cy="0" r="0.85" stroke="ivory" stroke-width="0.0025" fill-opacity="0" />
+<circle cx="0" cy="0" r="0.6508333333333334" stroke="ivory" stroke-width="0.0025" fill-opacity="0" />
+</svg>
