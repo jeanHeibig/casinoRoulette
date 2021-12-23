@@ -43,11 +43,11 @@ def draw_roulette(billes=[], numbers=None, americaine=False, handles=5, phase=0,
             n_zeros = max(1, min(3, numbers[1]))
         else:
             n_zeros = 1 + americaine
-        n_max = max(n_zeros, n_zeros * (min(48, numbers[0]) // n_zeros))
+        n_max = max(n_zeros, n_zeros * (min(36, numbers[0]) // n_zeros))
         numbers = convert_numbers(n_max, n_zeros)
     elif type(numbers) is int:
         n_zeros = 1 + americaine
-        n_max = max(2, n_zeros * (min(48, numbers) // n_zeros))
+        n_max = max(2, n_zeros * (min(36, numbers) // n_zeros))
         numbers = convert_numbers(n_max, n_zeros)
         
     def written_number(n):
@@ -81,7 +81,7 @@ def draw_roulette(billes=[], numbers=None, americaine=False, handles=5, phase=0,
     for n in numbers:
         path = ps.pop(0)
         d.append(draw.Line(r_in * np.cos((angle - nb_width / 2) / 180 * np.pi), r_in * np.sin((angle - nb_width / 2) / 180 * np.pi), r_mid * np.cos((angle - nb_width / 2) / 180 * np.pi), r_mid * np.sin((angle - nb_width / 2) / 180 * np.pi), stroke=k_border, stroke_width=3 * sw_ring))
-        d.append(draw.Text(written_number(n), 0.085, fill=k_border, path=path, center=True, lineOffset=-21))
+        d.append(draw.Text(written_number(n), 0.07, fill=k_border, path=path, center=True, lineOffset=-25.6))
         b = billes.count(n)
         if b:
             d.append(draw.Circle((r_mid + r_in) / 2 * np.cos(angle / 180 * np.pi), (r_mid + r_in) / 2 * np.sin(angle / 180 * np.pi), 0.035, fill=k_border, stroke=k_border, stroke_width=2 * sw_ring))
