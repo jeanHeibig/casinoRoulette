@@ -20,7 +20,7 @@
 
 ## Résolution mathématique
 
-### Modèle binomal et généralisation
+### Modèle binomial et généralisation
 
 * ruine +1 -1
 * ruine +1 -n

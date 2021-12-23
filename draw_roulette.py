@@ -3,8 +3,7 @@ import drawSvg as draw
 from numpy.random.mtrand import random
 
 
-def draw_roulette(billes=[], numbers=None, americaine=False, handles=5, phase=0, h_phase=30, random_seed=None):
-    margin = 0.2
+def draw_roulette(billes=[], numbers=None, americaine=False, margin = 0.2, handles=5, phase=0, h_phase=30, random_seed=None):
     board_margin = 0.025
     inner_rays_factor = 2.5
     l_handle, w_handle = 0.2, 0.05
@@ -58,7 +57,7 @@ def draw_roulette(billes=[], numbers=None, americaine=False, handles=5, phase=0,
 
     r_out, r_mid, r_in = 1, 0.85, 0.7
     nb_width = 360 / len(numbers)
-    d = draw.Drawing(2 * (1 + margin), 2 * (1 + margin), origin='center', displayInline=False)
+    d = draw.Drawing(2 * (1 + board_margin + margin), 2 * (1 + board_margin + margin), origin='center', displayInline=False)
     # Board
     d.append(draw.Circle(0, 0, (1 + board_margin)* r_out, fill=k_outside))
     # Draw multiple circular arcs
@@ -81,7 +80,7 @@ def draw_roulette(billes=[], numbers=None, americaine=False, handles=5, phase=0,
     for n in numbers:
         path = ps.pop(0)
         d.append(draw.Line(r_in * np.cos((angle - nb_width / 2) / 180 * np.pi), r_in * np.sin((angle - nb_width / 2) / 180 * np.pi), r_mid * np.cos((angle - nb_width / 2) / 180 * np.pi), r_mid * np.sin((angle - nb_width / 2) / 180 * np.pi), stroke=k_border, stroke_width=3 * sw_ring))
-        d.append(draw.Text(written_number(n), 0.07, fill=k_border, path=path, center=True, lineOffset=-25.6))
+        d.append(draw.Text(written_number(n), 0.09, fill=k_border, path=path, center=True, lineOffset=-19.75))
         b = billes.count(n)
         if b:
             d.append(draw.Circle((r_mid + r_in) / 2 * np.cos(angle / 180 * np.pi), (r_mid + r_in) / 2 * np.sin(angle / 180 * np.pi), 0.035, fill=k_border, stroke=k_border, stroke_width=2 * sw_ring))
